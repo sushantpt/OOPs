@@ -10,7 +10,7 @@ It is block of code which only runs when it is called.
 * # Attributes -->
 Attributes are the information that is stored. 
 * # Inheritance -->
-It is a feature that represents the relationship between different classes. (Using Attributes/properties of parent classes in child classes)
+It is a feature that represents the relationship between different classes. (Using Attributes/properties of parent classes in child classes) ("extends" keyword) 
 * # Access Modifiers: 
 --> The accessibility of a field/attributes/properties, method, constructor, or class.
 |   |  Class |Package | Sub-Class | World |
